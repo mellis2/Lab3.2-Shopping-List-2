@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\obj\Debug\netcoreapp3.1\Assessment Review.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\obj\Debug\netcoreapp3.1\Assessment Review.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\obj\Debug\netcoreapp3.1\Assessment Review.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\bin\Debug\netcoreapp3.1\Assessment Review.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\obj\Debug\netcoreapp3.1\Assessment Review.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Assessment Review\obj\Debug\netcoreapp3.1\Assessment Review.pdb

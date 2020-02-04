@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\bin\Debug\netcoreapp3.1\Exercise 36.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\obj\Debug\netcoreapp3.1\Exercise 36.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\obj\Debug\netcoreapp3.1\Exercise 36.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\obj\Debug\netcoreapp3.1\Exercise 36.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\obj\Debug\netcoreapp3.1\Exercise 36.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Exercise 36\obj\Debug\netcoreapp3.1\Exercise 36.pdb

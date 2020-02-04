@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\obj\Debug\netcoreapp3.1\Mess Around.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\obj\Debug\netcoreapp3.1\Mess Around.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\obj\Debug\netcoreapp3.1\Mess Around.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\bin\Debug\netcoreapp3.1\Mess Around.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\obj\Debug\netcoreapp3.1\Mess Around.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Mess Around\obj\Debug\netcoreapp3.1\Mess Around.pdb

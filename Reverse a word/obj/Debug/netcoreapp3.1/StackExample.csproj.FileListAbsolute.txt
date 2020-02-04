@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\bin\Debug\netcoreapp3.1\StackExample.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\obj\Debug\netcoreapp3.1\StackExample.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\obj\Debug\netcoreapp3.1\StackExample.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\obj\Debug\netcoreapp3.1\StackExample.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\obj\Debug\netcoreapp3.1\StackExample.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\StackExample\obj\Debug\netcoreapp3.1\StackExample.pdb

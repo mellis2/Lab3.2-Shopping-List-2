@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\obj\Debug\netcoreapp3.1\Fiddle - reworked without methods.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\obj\Debug\netcoreapp3.1\Fiddle - reworked without methods.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\obj\Debug\netcoreapp3.1\Fiddle - reworked without methods.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\bin\Debug\netcoreapp3.1\Fiddle - reworked without methods.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\obj\Debug\netcoreapp3.1\Fiddle - reworked without methods.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Fiddle - reworked without methods\obj\Debug\netcoreapp3.1\Fiddle - reworked without methods.pdb

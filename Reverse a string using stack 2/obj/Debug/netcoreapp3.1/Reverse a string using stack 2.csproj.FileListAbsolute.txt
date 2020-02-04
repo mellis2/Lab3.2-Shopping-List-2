@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\bin\Debug\netcoreapp3.1\Reverse a string using stack 2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\obj\Debug\netcoreapp3.1\Reverse a string using stack 2.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\obj\Debug\netcoreapp3.1\Reverse a string using stack 2.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\obj\Debug\netcoreapp3.1\Reverse a string using stack 2.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\obj\Debug\netcoreapp3.1\Reverse a string using stack 2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Reverse a string using stack 2\obj\Debug\netcoreapp3.1\Reverse a string using stack 2.pdb

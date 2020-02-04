@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.pdb
